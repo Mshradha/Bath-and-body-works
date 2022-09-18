@@ -1,20 +1,19 @@
+# TomTop Clone
 
 # Masai School Construct Week Project
 
-Welcome, we're are team , and this Readme contains detail about our project. We‘ve built a cloned website of Bath & Body Works in with some of its basic functionalities. This overall project was a part of our construct week at Masai School.
+Welcome, we're are team “TomTopClone”, and this Readme contains detail about our project. We‘ve built a cloned website of TomTop.com with some of its basic functionalities. This overall project was a part of our construct week at Masai School.
 
 
 ## About Project
-Bath&Body Works is India's best and most trusted Body facilities provider website which has helped millions of needies. Building this project has been a chellenging job and fun at the same time. This project is build using tech stacks like <br />
- ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
+TomTop is US based E-Commerce website which provids products like Technical,Non-Technical and all products like which E-commerce website to be have. Building this project has been a chellenging job and fun at the same time. This project is build using tech stacks like <br />
 
 
 ## Pages & Features
 
-- Homepage: Basic UI with search for Cars attached to the below of navbar.
--Body & Bath Page: Integrated search filter with category filterization and pagination.
-- Sign-up & Sign-in
-- Product Details page for each fundraiser
+- Homepage: Basic UI with search .
+- Sign-up & Sign-in Modal
+- Details page for each fundraiser
 - Payment Page
 - FAQ 
 - How it works page
@@ -26,10 +25,18 @@ https://medium.com/@anjna4523/bath-and-body-works-clone-1c3f4b2a4837
 https://drive.google.com/file/d/1NE3OubhdCIZ-II1ZAivczaARKSjZWH-g/view
 
 
-
 ## Feedback
 
 If you have any feedback, please reach out to us at our respective linkedin profiles mentioned above
+
+
+## Installation
+
+- Clone my project
+- Just click on index.html
+
+
+
 
 
 
