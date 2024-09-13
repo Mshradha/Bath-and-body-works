@@ -1,12 +1,12 @@
-# TomTop Clone
+# Bath and body works
 
 # Masai School Construct Week Project
 
-Welcome, we're are team “TomTopClone”, and this Readme contains detail about our project. We‘ve built a cloned website of TomTop.com with some of its basic functionalities. This overall project was a part of our construct week at Masai School.
+Welcome, we're are team “Bath and body works”, and this Readme contains detail about our project. We‘ve built a cloned website of Bathandbodyworks.com with some of its basic functionalities. This overall project was a part of our construct week at Masai School.
 
 
 ## About Project
-TomTop is US based E-Commerce website which provids products like Technical,Non-Technical and all products like which E-commerce website to be have. Building this project has been a chellenging job and fun at the same time. This project is build using tech stacks like <br />
+Bath & Body Works, LLC. is an American retail store chain that sells soaps, lotions, fragrances, and candles. It was founded in 1990 in New Albany, Ohio and has since expanded across six continents.[2] In 1997, it became the largest bath shop chain in the United States <br />
 
 
 ## Pages & Features
@@ -17,16 +17,6 @@ TomTop is US based E-Commerce website which provids products like Technical,Non-
 - Payment Page
 - FAQ 
 - How it works page
-
-## Deployment Link
-
-https://beamish-palmier-e5b41f.netlify.app/  
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at our respective linkedin profiles mentioned above
-
 
 ## Installation
 
